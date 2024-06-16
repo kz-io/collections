@@ -1,0 +1,1 @@
+export type { TCollectionIndex } from './interfaces.ts';

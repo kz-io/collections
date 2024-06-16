@@ -7,15 +7,15 @@
 kz is a collection of easy-to-use utility and feature libraries for creating anything you want with the <a href="https://deno.com">Deno</a> runtime.
 </p>
 
-<h1 align="center">@kz/jsr-package</h1>
+<h1 align="center">@kz/collections</h1>
 
 <p align="center">
 <!--TODO: Package description -->
 </p>
 
 <p align="center">
-<a href="https://jsr.io/@kz/jsr-package">Overview</a> |
-<a href="https://jsr.io/@kz/jsr-package/doc">API Docs</a>
+<a href="https://jsr.io/@kz/collections">Overview</a> |
+<a href="https://jsr.io/@kz/collections/doc">API Docs</a>
 </p>
 
 ## Examples
@@ -64,19 +64,19 @@ The MIT License (MIT) 2020-2024 integereleven. Refer to [LICENSE][license] for d
 </p>
 
 <p align="center">
-<a href="https://jsr.io/@kz/jsr-package">
-  <img src="https://jsr.io/badges/@kz/jsr-package" alt="" />
+<a href="https://jsr.io/@kz/collections">
+  <img src="https://jsr.io/badges/@kz/collections" alt="" />
 </a>
-<a href="https://jsr.io/@kz/jsr-package">
-  <img src="https://jsr.io/badges/@kz/jsr-package/score" alt="" />
+<a href="https://jsr.io/@kz/collections">
+  <img src="https://jsr.io/badges/@kz/collections/score" alt="" />
 </a>
 </p>
 
 [deno]: https://deno.dom "Deno homepage"
 [jsr]: https://jsr.io "JSR homepage"
-[branches]: https://github.com/kz-io/core/branches "@kz/jsr-package branches on GitHub"
-[releases]: https://github.com/kz-io/core/releases "@kz/jsr-package releases on GitHub"
-[contributing]: https://github.com/kz-io/core/blob/main/CONTRIBUTING.md "@kz/jsr-package contributing guidelines"
-[license]: https://github.com/kz-io/core/blob/main/LICENSE "@kz/jsr-package license"
+[branches]: https://github.com/kz-io/core/branches "@kz/collections branches on GitHub"
+[releases]: https://github.com/kz-io/core/releases "@kz/collections releases on GitHub"
+[contributing]: https://github.com/kz-io/core/blob/main/CONTRIBUTING.md "@kz/collections contributing guidelines"
+[license]: https://github.com/kz-io/core/blob/main/LICENSE "@kz/collections license"
 
 <!-- TODO: Update with links to modules on jsr -->
